@@ -1,0 +1,14 @@
+header {
+  transform: translateX(-100%);
+  animation: laPage 10s forwards;
+}
+
+@keyframes laPage {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+/*# sourceMappingURL=animation.css.map */
